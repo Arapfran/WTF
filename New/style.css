@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif;
+  background-color: wheat;
+  background-image: url(./cursed-elmo-67460306.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+table {
+  border: 1px solid aquamarine;
+}
+
+th,
+td {
+  border: 20px solid aquamarine;
+  font-size: 30px;
+  background-color: aquamarine;
+}
+
+#bread {
+  font-family: sans-serif;
+  font-size: 10vh;
+  font-weight: 3;
+  font-style: initial;
+  font-stretch: extra-expanded;
+  color: black;
+}
+
+#italiano {
+  background-image: url(/New/images.jfif);
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  width: 900px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#pasta {
+  font-family: sans-serif;
+  color: green;
+  font-size: 50px;
+}
